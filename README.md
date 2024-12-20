@@ -1,4 +1,4 @@
-# Spanlytics
+# 📸 Spanlytics
 
 Spanlytics is a desktop application that allows users to capture screen areas, extract numerical data from images, and generate instant statistical summaries.
 
