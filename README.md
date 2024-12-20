@@ -1,6 +1,6 @@
-# 📸 Spanlytics
+# 📸 Snaplytics
 
-Spanlytics is a desktop application that allows users to capture screen areas, extract numerical data from images, and generate instant statistical summaries.
+Snaplytics is a desktop application that allows users to capture screen areas, extract numerical data from images, and generate instant statistical summaries.
 
 ## Features
 
@@ -13,7 +13,7 @@ Spanlytics is a desktop application that allows users to capture screen areas, e
 ## How It Works
 
 1. Select the screen area containing numbers
-2. Spanlytics automatically captures and processes the image
+2. Snaplytics automatically captures and processes the image
 3. Numbers are extracted using OpenAI API
 4. View instant statistical summary (sum, average, etc.)
 
